@@ -1,2 +1,2 @@
-# Machine-learning-fun
-Some forays into using easily available tools for machine learning
+# Machine Learning Experiments
+Some forays into using easily available tools for machine learning. This work looks into the data from the UBER style loans company where indiviuals get to chose who they want to lend to. There was some fraud where people looking for loans created multiple profiles to avoid revealing their past poor financial performance. This analysis looks for those profiles by looking for similarity in the data given by these individuals.
